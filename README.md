@@ -1,6 +1,11 @@
 Vibe Chat App
 Vibe is a modern and feature-rich chat application that allows users to connect with their loved ones in real-time. With an intuitive user interface and powerful features, Vibe provides an immersive chat experience.
 
+Have a look =>  
+
+https://github.com/Anubhav6205/Vibe/assets/82750157/b2c1b783-6028-4df5-b71e-e10d15ac263e
+
+
 Features:-
 User-friendly interface with top-notch UI design.
 Real-time chat functionality for instant communication.
