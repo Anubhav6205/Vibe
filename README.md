@@ -21,7 +21,7 @@ Socket.io: Real-time communication library for instant messaging and updates
 
 
 Installation:
-Clone the repository: git clone https://github.com/yourusername/vibe.git
+Clone the repository
 Install dependencies: npm install (run this command in both the client and server folders)
 Start the client: npm run dev (navigate to localhost:5173 in your browser)
 Start the server: npm run dev (backend will run on the appropriate port)
